@@ -1,14 +1,8 @@
 # How to prevent CRUD actions in past dates of Angular Schedule
 
-**Repository Description:** This Angular-based project demonstrates how to prevent Create, Read, Update, and Delete (CRUD) operations on past dates within an Angular Schedule component, ensuring data integrity and preventing unintended modifications to historical records.
+This Angular-based project demonstrates how to prevent Create, Read, Update, and Delete (CRUD) operations on past dates in the [Angular Scheduler](https://www.syncfusion.com/angular-components/angular-scheduler). It showcases implementing date-based validation and access control to prevent modifications to historical records, providing a practical example for maintaining data integrity in scheduling applications.
 
-## Project Overview
-
-This project showcases a comprehensive implementation of the Syncfusion Angular Schedule component with enhanced business logic to restrict CRUD actions on past dates. It provides developers with a practical example of implementing date-based validation and access control within scheduling applications.
-
-## Scheduler features covered in this project
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8 with a node version of 10.16.0.
+## Features
 
 The Scheduler features included in this project are as follows:
 
